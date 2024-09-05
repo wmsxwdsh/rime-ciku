@@ -16,7 +16,8 @@ use_preset_vocabulary: true
 # 2. 文本按行去重  工具地址：https://tool.chinaz.com/tools/textquchong
 # 3. Excel 按汉字首字母顺序排序
 #
-# 原来，该词库的三部分，如下：
+# 2023.11.01，本词库合并到 pinyin_user.dict.yaml，本词库后续不再更新。
+# 合并后，词库的三部分，如下：
 # 第一部分，我即兴补充
 # 第二部分，地名、相关事
 # 第三部分，人名
