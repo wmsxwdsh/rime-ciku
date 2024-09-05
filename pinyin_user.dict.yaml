@@ -1,10 +1,22 @@
 ---
 name: pinyin_user
+note: "「Rime 拼音词库拓展计划」"
 version: "2023.09.10"
 sort: by_weight
 use_preset_vocabulary: true
 
-#「Rime 拼音词库拓展计划」
+# 用到的词库
+# 1. luna_pinyin.name.dict.yaml
+#     ---- 链接地址： https://github.com/Iorest/rime-dict/blob/master/%E4%BA%BA%E5%90%8D/luna_pinyin.name.dict.yaml
+# 2. 搜狗细胞词库：明星【官方推荐】.scel
+#     ---- 链接地址：https://pinyin.sogou.com/dict/detail/index/15209
+#
+# 食用攻略
+# 1. BeyondCompare 合并文本
+# 2. 文本按行去重  工具地址：https://tool.chinaz.com/tools/textquchong
+# 3. Excel 按汉字首字母顺序排序
+#
+# 原来，该词库的三部分，如下：
 # 第一部分，我即兴补充
 # 第二部分，地名、相关事
 # 第三部分，人名
