@@ -1,6 +1,4 @@
-﻿---config@码表分类=主码-3
----config@码表别名=CJKExt_B
-𠀍	anv
+﻿𠀍	anv
 𠀖	ayu
 𠀗	atr
 𠀠	aqi
